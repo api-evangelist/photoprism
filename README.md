@@ -64,5 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-PhotoPrism is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://photoprism.app/
+PhotoPrism is an AI‑powered, privacy‑first, self‑hosted application that lets users browse, organize, and share photos and videos. It automatically tags and indexes media using machine‑learning, enabling powerful search and discovery without compromising personal data. Users can run PhotoPrism on their own servers or in the cloud, ensuring full control over their digital assets while benefiting from modern AI features and a sleek web interface.
+
+**Areas:** Company · Photo Management · AI · Self‑Hosted · Open Source
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://photoprism.app/)
+- [Documentation](https://docs.photoprism.app/)
+- [Getting started](https://docs.photoprism.app/getting-started/)
+- [API reference](https://docs.photoprism.app/developer-guide/api/)
+- [Support](https://www.photoprism.app/contact/)
+- [Changelog](https://docs.photoprism.app/release-notes/)
+- [Blog](https://blog.photoprism.app/)
+- [Security](https://www.photoprism.app/plus/kb/security/)
+- [Terms of service](https://www.photoprism.app/terms/)
+- [Privacy policy](https://www.photoprism.app/privacy/)
+- [GitHub](https://github.com/photoprism)
+
+**APIs profiled:** 32
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/photoprism/](https://apis.io/providers/photoprism/).
