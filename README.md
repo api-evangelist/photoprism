@@ -68,6 +68,81 @@ PhotoPrism is an AI‑powered, privacy‑first, self‑hosted application that l
 
 **Areas:** Company · Photo Management · AI · Self‑Hosted · Open Source
 
+## PhotoPrism on APIs.io
+
+Everything profiled for PhotoPrism is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/photoprism/](https://apis.io/providers/photoprism/)** — or go straight to one of the APIs or properties below.
+
+### APIs (32)
+
+- [PhotoPrism Albums API](https://apis.io/apis/photoprism/photoprism-albums-api/) — The Albums API from PhotoPrism — 11 operation(s) for albums.
+- [PhotoPrism Assets API](https://apis.io/apis/photoprism/photoprism-assets-api/) — The Assets API from PhotoPrism — 1 operation(s) for assets.
+- [PhotoPrism Authentication API](https://apis.io/apis/photoprism/photoprism-authentication-api/) — The Authentication API from PhotoPrism — 18 operation(s) for authentication.
+- [PhotoPrism Cameras API](https://apis.io/apis/photoprism/photoprism-cameras-api/) — The Cameras API from PhotoPrism — 2 operation(s) for cameras.
+- [PhotoPrism Cluster API](https://apis.io/apis/photoprism/photoprism-cluster-api/) — The Cluster API from PhotoPrism — 7 operation(s) for cluster.
+- [PhotoPrism Config API](https://apis.io/apis/photoprism/photoprism-config-api/) — The Config API from PhotoPrism — 3 operation(s) for config.
+- [PhotoPrism CORS API](https://apis.io/apis/photoprism/photoprism-cors-api/) — The CORS API from PhotoPrism — 1 operation(s) for cors.
+- [PhotoPrism Debug API](https://apis.io/apis/photoprism/photoprism-debug-api/) — The Debug API from PhotoPrism — 3 operation(s) for debug.
+- [PhotoPrism Download API](https://apis.io/apis/photoprism/photoprism-download-api/) — The Download API from PhotoPrism — 3 operation(s) for download.
+- [PhotoPrism Faces API](https://apis.io/apis/photoprism/photoprism-faces-api/) — The Faces API from PhotoPrism — 2 operation(s) for faces.
+- [PhotoPrism Files API](https://apis.io/apis/photoprism/photoprism-files-api/) — The Files API from PhotoPrism — 12 operation(s) for files.
+- [PhotoPrism Folders API](https://apis.io/apis/photoprism/photoprism-folders-api/) — The Folders API from PhotoPrism — 3 operation(s) for folders.
+- [PhotoPrism Images API](https://apis.io/apis/photoprism/photoprism-images-api/) — The Images API from PhotoPrism — 6 operation(s) for images.
+- [PhotoPrism Internal API](https://apis.io/apis/photoprism/photoprism-internal-api/) — The Internal API from PhotoPrism — 1 operation(s) for internal.
+- [PhotoPrism Labels API](https://apis.io/apis/photoprism/photoprism-labels-api/) — The Labels API from PhotoPrism — 7 operation(s) for labels.
+- [PhotoPrism Lenses API](https://apis.io/apis/photoprism/photoprism-lenses-api/) — The Lenses API from PhotoPrism — 2 operation(s) for lenses.
+- [PhotoPrism Library API](https://apis.io/apis/photoprism/photoprism-library-api/) — The Library API from PhotoPrism — 3 operation(s) for library.
+- [PhotoPrism Links API](https://apis.io/apis/photoprism/photoprism-links-api/) — The Links API from PhotoPrism — 2 operation(s) for links.
+- [PhotoPrism Logs API](https://apis.io/apis/photoprism/photoprism-logs-api/) — The Logs API from PhotoPrism — 1 operation(s) for logs.
+- [PhotoPrism MCP API](https://apis.io/apis/photoprism/photoprism-mcp-api/) — The MCP API from PhotoPrism — 1 operation(s) for mcp.
+- [PhotoPrism Metrics API](https://apis.io/apis/photoprism/photoprism-metrics-api/) — The Metrics API from PhotoPrism — 1 operation(s) for metrics.
+- [PhotoPrism Photos API](https://apis.io/apis/photoprism/photoprism-photos-api/) — The Photos API from PhotoPrism — 17 operation(s) for photos.
+- [PhotoPrism Places API](https://apis.io/apis/photoprism/photoprism-places-api/) — The Places API from PhotoPrism — 2 operation(s) for places.
+- [PhotoPrism Services API](https://apis.io/apis/photoprism/photoprism-services-api/) — The Services API from PhotoPrism — 4 operation(s) for services.
+- [PhotoPrism Settings API](https://apis.io/apis/photoprism/photoprism-settings-api/) — The Settings API from PhotoPrism — 2 operation(s) for settings.
+- [PhotoPrism Sharing API](https://apis.io/apis/photoprism/photoprism-sharing-api/) — The Sharing API from PhotoPrism — 3 operation(s) for sharing.
+- [PhotoPrism Stacks API](https://apis.io/apis/photoprism/photoprism-stacks-api/) — The Stacks API from PhotoPrism — 2 operation(s) for stacks.
+- [PhotoPrism Subjects API](https://apis.io/apis/photoprism/photoprism-subjects-api/) — The Subjects API from PhotoPrism — 3 operation(s) for subjects.
+- [PhotoPrism Users API](https://apis.io/apis/photoprism/photoprism-users-api/) — The Users API from PhotoPrism — 11 operation(s) for users.
+- [PhotoPrism Videos API](https://apis.io/apis/photoprism/photoprism-videos-api/) — The Videos API from PhotoPrism — 1 operation(s) for videos.
+- [PhotoPrism Vision API](https://apis.io/apis/photoprism/photoprism-vision-api/) — The Vision API from PhotoPrism — 4 operation(s) for vision.
+- [PhotoPrism WebSocket API](https://apis.io/apis/photoprism/photoprism-websocket-api/) — The WebSocket API from PhotoPrism — 1 operation(s) for websocket.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Photoprism Agentic Access](https://apis.io/agentic-access/photoprism/photoprism-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [PhotoPrism API Rules](https://apis.io/rules/photoprism/photoprism-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Photoprism Authentication](https://apis.io/security/photoprism/photoprism-authentication/)
+- [Photoprism Domain Security](https://apis.io/security/photoprism/photoprism-domain-security/)
+- [Photoprism Vulnerability Disclosure](https://apis.io/security/photoprism/photoprism-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Photoprism Plans Pricing](https://apis.io/plans/photoprism/photoprism-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Photoprism Rate Limits](https://apis.io/rate-limits/photoprism/photoprism-rate-limits/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
@@ -84,8 +159,57 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [Privacy policy](https://www.photoprism.app/privacy/)
 - [GitHub](https://github.com/photoprism)
 
-**APIs profiled:** 32
-
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/photoprism/](https://apis.io/providers/photoprism/).
+**Kin Score 55.4** — strong · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 42.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 63.6 |
+| Access clarity | 49.5 |
+
+**Agent readiness 46.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | mostly |
+
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/photoprism/](https://apis.io/providers/photoprism/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for PhotoPrism: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/photoprism/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
